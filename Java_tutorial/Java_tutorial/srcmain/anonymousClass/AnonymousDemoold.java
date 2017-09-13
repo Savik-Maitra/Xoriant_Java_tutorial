@@ -26,5 +26,6 @@ class MyClass implements Ageold
   {
       // printing the age
       System.out.print("Age is "+x);
+      int a=1
   }
 }
